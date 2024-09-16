@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kübra</h1>
-<h3 align="center">Someone from Turkey, sometimes crazy, sometimes smart, but always coming home.</h3>
+<h3 align="center">Someone from Türkiye, sometimes crazy, sometimes smart, but always coming home.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbrga-eul&label=Profile%20views&color=0e75b6&style=flat" alt="kbrga-eul" /> </p>
 
